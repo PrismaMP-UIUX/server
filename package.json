@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server de la maquetas Web",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rperrote/Maquetas.git"
+  },
+  "author": "Rodrigo Perrote",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rperrote/Maquetas/issues"
+  },
+  "homepage": "https://github.com/rperrote/Maquetas",
+  "devDependencies": {
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
